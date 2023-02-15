@@ -30,6 +30,7 @@ void Print(node* &head){
     temp=temp->next;
   }
 }
+//output- 14 13 12 11 10 
 
 
 //Main Function
